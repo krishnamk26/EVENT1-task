@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+}
+.container{
+    margin-top: 30px;
+    border: 1px solid black;
+    width: 900px;
+    height: 480px;
+}
+.text{
+    text-align: center;
+    padding: 25px;
+    font-family:cursive;
+    font-size: 40px;
+}
+.text2{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.row{
+    border: 1px solid black;
+    width: 850px;
+    height: 280px;
+    margin: 10px;
+}
+.box-inside{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.text3{
+    margin-top: 25px;
+    text-align: justify;
+}
+label{
+    width: 170px;
+}
+button{
+    width: 140px;
+}
+.button{
+    padding: 15px;
+}
+input{
+    width: 180px;
+}
+.curcul{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 23px;
+    border-radius: 100px;
+}
+.text4{
+    text-align: center;
+    padding: 30px;
+    font-family: cursive;
+}
